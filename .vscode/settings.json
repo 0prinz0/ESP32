@@ -1,0 +1,14 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\Prinz\\.platformio\\penv\\Scripts;C:\\Users\\Prinz\\.platformio\\penv;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\OpenVPN\\bin;C:\\Program Files\\MariaDB 10.2\\bin;C:\\tools\\wkhtmltopdf\\bin;C:\\Users\\Prinz\\AppData\\Local\\Android\\sdk\\platform-tools;;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Common Files\\PCXTools;%SystemRoot%\\system32;%SystemRoot%;%SystemRoot%\\System32\\Wbem;%SYSTEMROOT%\\System32\\WindowsPowerShell\\v1.0\\;%SYSTEMROOT%\\System32\\OpenSSH\\;C:\\Users\\Prinz\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Prinz\\AppData\\Local\\atom\\bin;C:\\Users\\Prinz\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\Prinz\\AppData\\Local\\GitHubDesktop\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\OpenVPN\\bin;C:\\Program Files\\MariaDB 10.2\\bin;C:\\tools\\wkhtmltopdf\\bin;C:\\Users\\Prinz\\AppData\\Local\\Android\\sdk\\platform-tools;;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Common Files\\PCXTools;%SystemRoot%\\system32;%SystemRoot%;%SystemRoot%\\System32\\Wbem;%SYSTEMROOT%\\System32\\WindowsPowerShell\\v1.0\\;%SYSTEMROOT%\\System32\\OpenSSH\\;C:\\Users\\Prinz\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Prinz\\AppData\\Local\\atom\\bin;C:\\Users\\Prinz\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\Prinz\\AppData\\Local\\GitHubDesktop\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp"
+    }
+}
