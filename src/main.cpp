@@ -53,8 +53,9 @@ Serial.println(" ");
 }
 
  double getSensorData(){
-
-  return 0.00;
+  int value = analogRead(A0);
+  double percent = 100-((value*100)/1023);
+  return percent;
 }
 
 void setup() {
@@ -64,6 +65,7 @@ void setup() {
 
 void loop() {
    double sensorValue = getSensorData();
+  Serial.println(sensorValue);
   
   client.beginRequest();
   String subAdress = "/Rest/status?id=5&value=";
@@ -84,4 +86,8 @@ void loop() {
   Serial.println("Sleep for 1 min");
   ESP.deepSleep(3600e6);
   
+
+ 
+  delay(1000);
+
 }
